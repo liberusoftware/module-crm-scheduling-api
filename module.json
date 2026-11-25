@@ -2,7 +2,7 @@
   "name": "crm-scheduling-api",
   "display_name": "CRM Scheduling API",
   "description": "HTTP API for scheduling links and bookings",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "category": "presentation",
   "provider": "Liberu\\CRM\\SchedulingApi\\Providers\\SchedulingApiServiceProvider",
   "requires": {
